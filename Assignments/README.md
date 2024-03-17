@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   0   | link 0      | description 0          |
+|   2   | PO2     | Linear Swearch (JSON & Getch) | 
