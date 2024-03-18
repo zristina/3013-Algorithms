@@ -19,6 +19,8 @@
 
 
 ## Output Examples :
+#### * The first two examples are of the suggestive search
+#### * The second two examples are of the definition print
 <img width="619" alt="Screen Shot 2024-03-17 at 7 08 29 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/7340121f-853b-43df-8d27-43d9297532ef">
 <img width="619" alt="Screen Shot 2024-03-17 at 7 09 11 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/50a58431-ddac-46c0-b374-b80455521877">
 <img width="619" alt="Screen Shot 2024-03-18 at 6 36 26 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/16f10791-3334-42a6-9276-e700f9588e32">
