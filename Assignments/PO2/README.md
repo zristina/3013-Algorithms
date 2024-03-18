@@ -1,6 +1,8 @@
 ## PO2 : Linear Search : Using JSON& Getch
 #### Christina Emery 3.17.2024
 
+## Replit Link to PO2 :
+[3013-PO2-Using JSON & Getch](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch)
 ## Description :
  Using Json and Getch, this program performs linear search to create a suggestive search based on the user's character input. The user will be asked to enter characters of the word they are searching for. This program will find matches to the users input, that are words begining with the string inpiuted by the user. The program will print out the total matches found, and will print out the top 10 results.
 
