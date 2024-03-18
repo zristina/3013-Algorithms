@@ -17,10 +17,16 @@
 |   5   | [LoadJsonEx.hpp](https://github.com/zristina/3013-Algorithms/blob/main/Assignments/PO2/LoadJsonEx.hpp)     | Json file | [replit LoadJsonEx.hpp](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#loadJsonEx.hpp) |
 |   6   | [dictionary.json](https://github.com/zristina/3013-Algorithms/blob/main/Assignments/PO2/dictionary.json)    | Includes dictionary useed to perform suggestive search | [replit dictionary.json](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#data/dictionary.json) |
 
+## Instructions :
+ * Install all above files, the link under "File" leads to the github file, "Link to Replit" leads to file on replit program.
+ * My program does not expect any parameters on the command line when you run the program.
+ * Make sure to only enter in only letters when searching for the desired word.
+ * Continue typing in your word until there is only one match found.
+ * When one match is found, hit the enter key to get the definition of your word :) .
 
 ## Output Examples :
-#### * The first two examples are of the suggestive search
-#### * The second two examples are of the definition print
+ * The first two examples are of the suggestive search
+ * The second two examples are of the definition print
 <img width="619" alt="Screen Shot 2024-03-17 at 7 08 29 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/7340121f-853b-43df-8d27-43d9297532ef">
 <img width="619" alt="Screen Shot 2024-03-17 at 7 09 11 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/50a58431-ddac-46c0-b374-b80455521877">
 <img width="619" alt="Screen Shot 2024-03-18 at 6 36 26 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/16f10791-3334-42a6-9276-e700f9588e32">
