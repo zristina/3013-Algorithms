@@ -18,6 +18,8 @@
 |   6   | [dictionary.json](https://github.com/zristina/3013-Algorithms/blob/main/Assignments/PO2/dictionary.json)    | Includes dictionary useed to perform suggestive search | [replit dictionary.json](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#data/dictionary.json) |
 
 ## Instructions :
+ * Clik the link leading to PO2 on relit above under "Replit Link to PO2"
+   ## OR :
  * Install all above files, the link under "File" leads to the github file, "Link to Replit" leads to file on replit program.
  * My program does not expect any parameters on the command line when you run the program.
  * Make sure to only enter in only letters when searching for the desired word.
