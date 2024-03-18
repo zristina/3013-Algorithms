@@ -21,7 +21,8 @@
 ## Output Examples :
 <img width="619" alt="Screen Shot 2024-03-17 at 7 08 29 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/7340121f-853b-43df-8d27-43d9297532ef">
 <img width="619" alt="Screen Shot 2024-03-17 at 7 09 11 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/50a58431-ddac-46c0-b374-b80455521877">
-<img width="619" alt="Screen Shot 2024-03-17 at 7 14 53 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/dc35619a-297a-431a-9db3-b517dfad4be9">
-<img width="619" alt="Screen Shot 2024-03-17 at 7 16 29 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/126b3cf0-bce8-41e2-9d83-fb6235d2286d">
+<img width="619" alt="Screen Shot 2024-03-18 at 6 36 26 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/16f10791-3334-42a6-9276-e700f9588e32">
+<img width="619" alt="Screen Shot 2024-03-18 at 6 40 40 PM" src="https://github.com/zristina/3013-Algorithms/assets/157079380/c9e2e601-f39c-4549-bb2d-7532e69a4791">
+
 
 
