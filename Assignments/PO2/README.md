@@ -8,14 +8,14 @@
 
  ## Files :
  
-|   #   | File               | File Description       |
-| :---: | ------------------ | ---------------------- |
-|   1   | main.cpp           | PO2 main file          |
-|   2   | console.hpp        | Determines libraries to use based on OS (windows/linux  |
-|   3   | json.hpp           | Loads functions for JSON objects       |
-|   4   | rang.hpp           | Contains text editing (color / text italicize / text boldness  |
-|   5   | LoadJsonEx.hpp     | Json file |
-|   6   | dictionary.json    | Includes dictionary useed to perform suggestive search |
+|   #   | File               | File Description       | Link to Replit      |
+| :---: | ------------------ | ---------------------- |-------------------- |
+|   1   | main.cpp           | PO2 main file          |[replit main.cpp](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#main.cpp) |
+|   2   | console.hpp        | Determines libraries to use based on OS (windows/linux  | [replit console.hpp](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#headers/console.hpp) |
+|   3   | json.hpp           | Loads functions for JSON objects       | [replit json.hpp](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#headers/json.hpp) |
+|   4   | rang.hpp           | Contains text editing (color / text italicize / text boldness  | [replit rang.hpp](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#headers/rang.hpp) |
+|   5   | LoadJsonEx.hpp     | Json file | [replit LoadJsonEx.hpp](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#loadJsonEx.hpp) |
+|   6   | dictionary.json    | Includes dictionary useed to perform suggestive search | [replit dictionary.json](https://replit.com/@zristina/3013-P02-Using-JSON-and-Getch#data/dictionary.json) |
 
 
 ## Output Examples :
