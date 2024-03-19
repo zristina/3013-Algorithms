@@ -19,7 +19,9 @@
 
 ## Instructions :
  * Clik the link leading to PO2 on relit above under "Replit Link to PO2"
-   OR 
+   
+   OR
+   
  * Install all above files, the link under "File" leads to the github file, "Link to Replit" leads to file on replit program.
  * My program does not expect any parameters on the command line when you run the program.
  * Make sure to only enter in only letters when searching for the desired word.
